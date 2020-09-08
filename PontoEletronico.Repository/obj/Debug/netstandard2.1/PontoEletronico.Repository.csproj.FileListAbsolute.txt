@@ -1,0 +1,12 @@
+C:\repos\Ponto\PontoEletronico.Repository\bin\Debug\netstandard2.1\PontoEletronico.Repository.deps.json
+C:\repos\Ponto\PontoEletronico.Repository\bin\Debug\netstandard2.1\PontoEletronico.Repository.dll
+C:\repos\Ponto\PontoEletronico.Repository\bin\Debug\netstandard2.1\PontoEletronico.Repository.pdb
+C:\repos\Ponto\PontoEletronico.Repository\bin\Debug\netstandard2.1\PontoEletronico.Domain.dll
+C:\repos\Ponto\PontoEletronico.Repository\bin\Debug\netstandard2.1\PontoEletronico.Domain.pdb
+C:\repos\Ponto\PontoEletronico.Repository\obj\Debug\netstandard2.1\PontoEletronico.Repository.csprojAssemblyReference.cache
+C:\repos\Ponto\PontoEletronico.Repository\obj\Debug\netstandard2.1\PontoEletronico.Repository.AssemblyInfoInputs.cache
+C:\repos\Ponto\PontoEletronico.Repository\obj\Debug\netstandard2.1\PontoEletronico.Repository.AssemblyInfo.cs
+C:\repos\Ponto\PontoEletronico.Repository\obj\Debug\netstandard2.1\PontoEletronico.Repository.csproj.CoreCompileInputs.cache
+C:\repos\Ponto\PontoEletronico.Repository\obj\Debug\netstandard2.1\PontoEletronico.Repository.csproj.CopyComplete
+C:\repos\Ponto\PontoEletronico.Repository\obj\Debug\netstandard2.1\PontoEletronico.Repository.dll
+C:\repos\Ponto\PontoEletronico.Repository\obj\Debug\netstandard2.1\PontoEletronico.Repository.pdb
